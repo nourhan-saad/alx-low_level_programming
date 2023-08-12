@@ -5,7 +5,7 @@
  *Description: print a quate usint write function
  *writ (int fd.const void buf.size_t count)
  *
- *return: 1 (notsucces)
+ *Return: 1 (notsucces)
 */
 int main(void)
 {
