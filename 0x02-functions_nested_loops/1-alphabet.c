@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * print_alphabet: - utilizes on the _putchar function to print
- *					the alphabet from a - z
+ *print_alphabet - utilizes on the _putchar function to print
+ *the alphabet from a - z without return bec found ot void
 */
 void print_alphabet(void)
 {
