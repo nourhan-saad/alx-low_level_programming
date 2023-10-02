@@ -482,4 +482,5 @@ _putchar.c/     0           0     0     644     276       `
  */
 int _putchar(char c)
 {
-        return (write(1, &c, 1));}
+        return (write(1, &c, 1));
+}
