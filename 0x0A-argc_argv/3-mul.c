@@ -9,20 +9,15 @@
  **/
 int main(int argc, char *argv[])
 {
-
-	int mul=0;
+	int mult = 0;
 	char c[] = "Error";
 
 	if (argc != 3)
 	{
-		printf ("%s\n", c);
-		return(1);
+		printf("%s\n", c);
+		return (1);
 	}
-	mul = atoi(argv[1]) * atoi(argv[2]);
-	printf("%i\n", mul);
+	mult = atoi(argv[1]) * atoi(argv[2]);
+	printf("%i\n", mult);
 	return (0);
-
-
-
-
 }
